@@ -1,0 +1,12 @@
+C:\Users\varpe\source\repos\projektadraka\projektadraka\bin\Debug\projektadraka.exe.config
+C:\Users\varpe\source\repos\projektadraka\projektadraka\bin\Debug\projektadraka.exe
+C:\Users\varpe\source\repos\projektadraka\projektadraka\bin\Debug\projektadraka.pdb
+C:\Users\varpe\source\repos\projektadraka\projektadraka\obj\Debug\projektadraka.csproj.AssemblyReference.cache
+C:\Users\varpe\source\repos\projektadraka\projektadraka\obj\Debug\projektadraka.csproj.SuggestedBindingRedirects.cache
+C:\Users\varpe\source\repos\projektadraka\projektadraka\obj\Debug\projektadraka.Form1.resources
+C:\Users\varpe\source\repos\projektadraka\projektadraka\obj\Debug\projektadraka.Properties.Resources.resources
+C:\Users\varpe\source\repos\projektadraka\projektadraka\obj\Debug\projektadraka.csproj.GenerateResource.cache
+C:\Users\varpe\source\repos\projektadraka\projektadraka\obj\Debug\projektadraka.csproj.CoreCompileInputs.cache
+C:\Users\varpe\source\repos\projektadraka\projektadraka\obj\Debug\projektadraka.exe
+C:\Users\varpe\source\repos\projektadraka\projektadraka\obj\Debug\projektadraka.pdb
+C:\Users\varpe\source\repos\projektadraka\projektadraka\obj\Debug\projektadraka.Form2.resources
